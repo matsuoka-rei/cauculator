@@ -1,1 +1,1 @@
-# cauculator
+# custom-formula-calculator
